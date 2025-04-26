@@ -2,6 +2,10 @@
 
 ![1745188181547](https://github.com/user-attachments/assets/52cdd191-4f64-4695-9af0-13e92330c4af)
 
+# Installation
+
+pip install -r requirements.txt
+
 # References
 [1] Aaronson, Scott, and Yuxuan Zhang. ‘On Verifiable Quantum Advantage with Peaked Circuit Sampling’. arXiv, 21 May 2024. https://doi.org/10.48550/arXiv.2404.14493. <br/>
 [2] Karuppasamy, Krishnageetha, Varun Puram, Stevens Johnson, and Johnson P. Thomas. ‘A Comprehensive Review of Quantum Circuit Optimization: Current Trends and Future Directions’. arXiv, 2 January 2025. https://doi.org/10.48550/arXiv.2408.08941. <br/>
