@@ -10,7 +10,7 @@ For example, ```1001``` is the peak bitstring as it has a much higher probabilit
 
 <img width="1031" alt="image" src="https://github.com/user-attachments/assets/3eb1b25b-a9f5-4921-aeab-ecf6c2ae9f4b" />
 
-The ```.qasm``` file preparing the state:
+The ```.qasm``` [file](https://github.com/roman-bagdasarian/yquantum/blob/main/circuits/P1_little_peak.qasm) preparing the state:
 
 ```
 OPENQASM 2.0;
