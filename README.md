@@ -1,4 +1,4 @@
-# BlueQubit x Yale University Quantum Hackathon 2025
+# BlueQubit Challenge, Yale University Quantum Hackathon 2025
 
 ![1745188181547](https://github.com/user-attachments/assets/52cdd191-4f64-4695-9af0-13e92330c4af)
 
